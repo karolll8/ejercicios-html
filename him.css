@@ -75,3 +75,22 @@ text-align: center;
 color: rgb(0, 4, 255);
 margin-bottom: 20px;
 }
+
+
+img{
+    width: 800px;
+    height: 1200px;
+    right: 100px;
+    bottom: 300px;
+}
+
+.contene{
+       
+    display: flex;
+    justify-content: center;
+
+}
+
+.contenido{
+display: flex;
+margin: 70px;

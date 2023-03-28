@@ -14,6 +14,22 @@ background-color: rgb(33, 165, 21);
 color: rgb(255, 255, 255);
 padding: 20px;}
 
+.dede h1
+{text-align: center;
+background-color: rgb(33, 165, 21);
+color: rgb(255, 255, 255);
+padding: 20px;
+width: 700px;
+
+left: 10px;
+}
+
+.giga
+{
+    padding: 15px 0px;
+    margin: 105px 33px;
+}
+
 #nueva-fuente
 {
 font-family: 'Kalam', cursive
@@ -75,3 +91,21 @@ text-align: center;
 color: rgb(255, 0, 0);
 margin-bottom: 20px;
 }
+
+img{
+    width: 600px;
+    height: 400px;
+    right: 100px;
+    bottom: 300px;
+}
+
+.contene{
+       
+    display: flex;
+    justify-content: left;
+
+}
+
+.contenido{
+display: flex;
+margin: 70px;
