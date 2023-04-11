@@ -38,12 +38,7 @@ img{
     bottom: 300px;
 }
 
-.contene{
-       
-    display: flex;
-    justify-content: center;
 
-}
 
 nav ul {
     background-color: rgb(192, 0, 0);
@@ -105,8 +100,6 @@ margin-bottom: 20px;
 
 .menu-ter{
     position: absolute;
-    
-
 }
 
 .menu-ter a {
@@ -126,6 +119,9 @@ color: #39A900;
         width: 700px;;
        }
 
+    .menu-ter{
+       padding: 15px 0px;
+       margin: 105px 560px;}
    
 
 
