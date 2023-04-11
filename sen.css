@@ -92,19 +92,6 @@ color: rgb(255, 0, 0);
 margin-bottom: 20px;
 }
 
-img{
-    width: 600px;
-    height: 400px;
-    right: 100px;
-    bottom: 300px;
-}
-
-.contene{
-       
-    display: flex;
-    justify-content: left;
-
-}
 
 .contenido{
 display: flex;
